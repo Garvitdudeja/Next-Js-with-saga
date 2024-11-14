@@ -1,0 +1,253 @@
+@media (max-width: 1449px) {
+    .homePageBg{
+        padding-top: 150px !important;
+    }
+    .homePageHeading {
+        font-size: 56px;
+    }
+
+    .homePageHeading span {
+        font-size: 95px;
+    }
+    /* .boxArrow::after{
+        left: 169px !important;
+    } */
+    .login_white_bg {
+        padding: 40px 20px;
+      }
+      .login_page_img{
+        max-height: 420px;
+      }
+      .login_bg {
+        padding: 50px;
+      }
+}
+
+@media (max-width: 1200px) {
+    .BoxcardImg{
+        max-width: 80px !important;
+    }
+    .boxCardmain .boxCard{
+        padding: 15px;
+    }
+
+    .homePageHeading {
+        font-size: 50px !important;
+    }
+
+    .homePageHeading span {
+        font-size: 80px !important;
+    }
+    .homePageBg, .masterTopPadding{
+        padding-top: 130px !important;
+    }
+   
+    .headerLink{
+        margin-bottom: 10px;
+        padding: 10px;
+    }
+    /* .boxArrow::after{
+        left: 70px !important;
+    } */
+
+}
+
+
+@media (max-width: 991px) {
+    .login_page_img{
+        max-height: 300px;
+      }
+    .login_page_img{
+        max-width: 240px !important;
+        margin-bottom: 30px;
+    }
+    .mobileScreenCenter{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .login_bg{
+        padding: 30px;
+    }
+    .tabTitle{
+        font-size: 17px;
+    }
+    .BoxcardImg{
+        max-width: 50px !important;
+    }
+
+    .itemcenter768 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .masterContent{
+        text-align: center;
+    }
+    .activeLink {
+        border-bottom: 0 !important;
+        background-color: aliceblue !important;
+        padding: 4px 10px !important;
+        /* border-radius: 10px !important; */
+    }
+    .headerLink {
+        padding: 4px 10px !important;
+    }
+    .leftMenuLine{
+        display: block !important;
+    }
+    /* .boxArrow::after{
+        left: 96px !important;
+    } */
+    .overflow_right{
+        position: none;
+    }
+    .hiddenOnXl{
+        display: block !important;
+    }
+    .hideOnlg{
+        display: none !important;
+    }
+    .swiperCardImg{
+        max-width: 120px !important;
+    }
+    .contentCardTitle{
+        font-size: 16px;
+    }
+    .masterContent{
+        font-size: 15px;
+    }
+    .blogViewLink{
+        font-size: 15px;
+    }
+    .scribLabel{
+        background-color: #fcf6eb;
+    }
+
+}
+@media (max-width: 768px) {
+    .login_page_img{
+        max-width: 200px !important;
+    }
+    
+    .tabTitle{
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+    .BoxcardImg{
+        max-width: 30px !important;
+    }
+    .boxCardmain .boxCard{
+        padding: 12px;
+    }
+    .masterPadding {
+        padding: 60px 0 !important;
+    }
+    .logo{
+        max-width: 180px !important;
+    }
+
+    .masterHeading {
+        font-size: 25px;
+    }
+
+    .homePageHeading {
+        font-size: 40px !important;
+    }
+
+    .homePageHeading span {
+        font-size: 60px !important;
+    }
+
+    .hideOnMobile {
+        display: none;
+    }
+
+    .footerBg {
+        padding: 25px;
+    }
+
+    .boxCardmain .boxCard,
+    .contentCardMain .contentCard {
+        max-width: 100%;
+    }
+
+    .blogCardImg {
+        max-width: 100%;
+        max-height: 300px;
+    }
+
+     .boxArrow::after{
+        left: 44%;
+    }
+    .masterImage{
+        max-height: 350px;
+    }
+    .contentCardMain .blogDetailBtn{
+        font-size: 18px;
+        padding: 5px 20px;
+    }
+    .blogdetailDate{
+        font-size: 18px;
+    }
+    .homePageBg, .masterTopPadding{
+        padding-top: 105px !important;
+    }
+    .header-wrapper{
+        padding: 8px 0;
+    }
+    .font_24{
+        font-size: 20px !important;
+    }
+
+}
+
+@media (max-width: 620px) {
+    .login_page_img{
+        max-width: 140px !important;
+        margin-bottom: 30px;
+    }
+    .hideImg620Plus{
+        display: block;
+    }
+    .hideImg620minus{
+        display: none;
+    }
+    .login_bg{
+        padding: 15px;
+    }
+    .ImgSet620{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+    }
+    .boxCardmain .boxCard{
+        padding: 8px;
+    }
+    .tabTitle{
+        font-size: 12px;
+    }
+}
+@media (max-width: 500px) {
+   
+    .masterHeading {
+        font-size: 22px !important;
+    }
+
+    .homePageHeading {
+        font-size: 30px !important;
+    }
+
+    .homePageHeading span {
+        font-size: 50px !important;
+    }
+    .homePageBg, .masterTopPadding{
+        padding-top: 90px !important;
+    }
+    .header-wrapper{
+        padding: 5px 0;
+    }
+
+}
